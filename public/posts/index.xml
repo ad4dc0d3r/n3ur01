@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2024 01:59:53 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>http://example.org/posts/example/</link>
+      <pubDate>Tue, 30 Jan 2024 01:59:53 +0200</pubDate>
+      
+      <guid>http://example.org/posts/example/</guid>
+      <description>first post Hi</description>
+    </item>
+    
+    <item>
+      <title>sublime text</title>
+      <link>http://example.org/posts/sublime-set-up/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>http://example.org/posts/sublime-set-up/</guid>
+      <description>TERMINUS pour terminus j&amp;rsquo;ai ajoute les lignes suivantes dans default linux sublime-kemap
+[ // Open a terminal tab at current file directory 	{ &amp;#34;keys&amp;#34;: [&amp;#34;ctrl+alt+b&amp;#34;], &amp;#34;command&amp;#34;: &amp;#34;terminus_open&amp;#34;, &amp;#34;args&amp;#34;: { &amp;#34;cwd&amp;#34;: &amp;#34;${file_path:${folder}}&amp;#34; } }, { &amp;#34;keys&amp;#34;: [&amp;#34;ctrl+shift+`&amp;#34;], &amp;#34;command&amp;#34;: &amp;#34;toggle_terminus_panel&amp;#34; } ] puis interchanger avec la &amp;ldquo;console sublime&amp;rdquo;
+[ // Open a terminal tab at current file directory 	{ &amp;#34;keys&amp;#34;: [&amp;#34;ctrl+alt+b&amp;#34;], &amp;#34;command&amp;#34;: &amp;#34;terminus_open&amp;#34;, &amp;#34;args&amp;#34;: { &amp;#34;cwd&amp;#34;: &amp;#34;${file_path:${folder}}&amp;#34; } }, { &amp;#34;keys&amp;#34;: [&amp;#34;ctrl+`&amp;#34;], &amp;#34;command&amp;#34;: &amp;#34;toggle_terminus_panel&amp;#34; }, { &amp;#34;keys&amp;#34;: [&amp;#34;ctrl+shift+`&amp;#34;], &amp;#34;command&amp;#34;: &amp;#34;show_panel&amp;#34;, &amp;#34;args&amp;#34;: { &amp;#34;panel&amp;#34;: &amp;#34;console&amp;#34;, &amp;#34;toggle&amp;#34;: true } } ] Plugins pour prettier &amp;ndash;&amp;gt; install le package via package manager puis install l&amp;rsquo;api en globale:</description>
+    </item>
+    
+  </channel>
+</rss>
